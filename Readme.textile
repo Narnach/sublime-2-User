@@ -1,0 +1,7 @@
+h1. Sublime Text 2 User package
+
+My personal preferences and settings for the Sublime Text 2 editor.
+
+An a mac, put this in ~/Library/Application Support/Sublime Text 2/Packages/User
+
+Warning: replacing User will replace your own preferences.
