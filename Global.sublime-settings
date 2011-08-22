@@ -1,6 +1,8 @@
 // Place user-specific overrides in this file, to ensure they're preserved
 // when upgrading
 {
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "tmp", "vendor"],
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.fla", "*.swf", "*.pages", "*.docx", "*.pdf", "*.mp3"],
 	"remember_open_files": false,
 	"show_tab_close_buttons": false
 }
