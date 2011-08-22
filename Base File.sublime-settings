@@ -2,5 +2,18 @@
 	"color_scheme": "Packages/Color Scheme - Default/SpaceCadet.tmTheme",
 	"trim_trailing_white_space_on_save": true,
 	"save_on_focus_lost": true,
-	"tab_size": 2
+	"tab_size": 2,
+
+  // Set to true to ensure the last line of the file ends in a newline
+  // character when saving
+  "ensure_newline_at_eof_on_save": true,
+
+  // Valid values are "smooth", "phase", "blink", "wide" and "solid".
+  "caret_style": "solid",
+
+	// Set to true to insert spaces when tab is pressed
+	"translate_tabs_to_spaces": true,
+
+	// Columns in which to display vertical rulers
+	"rulers": []
 }
